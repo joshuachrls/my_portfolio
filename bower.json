@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "0.0.0",
+  "authors": [
+    "joshuachrls <joshua.robinson@centro.net>"
+  ],
+  "description": "Portfolio of Joshua Robinson",
+  "license": "MIT",
+  "homepage": "joshuarobinson.co",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
